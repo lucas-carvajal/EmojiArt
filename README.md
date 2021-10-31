@@ -6,7 +6,7 @@ Furthermore you can create and manage multiple emoji palettes. The app also runs
 
 ### How to use it?
 1. Load the project into Xcode
-2. Run the app on an emulator or physical device
+2. Run the app on an emulator or physical device 
 
 ### What did I learn?
 * Swift
